@@ -1,0 +1,14 @@
+{
+  "name": "admin-tareas",
+  "version": "1.0.0",
+  "description": "Testing con Cypress a Admin de Tareas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}

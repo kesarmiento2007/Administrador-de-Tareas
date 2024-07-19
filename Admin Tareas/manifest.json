@@ -1,0 +1,51 @@
+{
+    "name": "Administrador de Tareas",
+    "short_name": "AT",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background-color": "#11E07C",
+    "theme-color": "#11E07C",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "icon/iconos-app/icono-72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "icon/iconos-app/icono-120.png",
+            "type": "image/png",
+            "sizes": "120x120"
+        },
+        {
+            "src": "icon/iconos-app/icono-128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "icon/iconos-app/icono-144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "icon/iconos-app/icono-152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "icon/iconos-app/icono-196.png",
+            "type": "image/png",
+            "sizes": "196x196"
+        },
+        {
+            "src": "icon/iconos-app/icono-256.png",
+            "type": "image/png",
+            "sizes": "256x256"
+        },
+        {
+            "src": "icon/iconos-app/icono-500.png",
+            "type": "image/png",
+            "sizes": "500x500"
+        }
+    ]
+}
